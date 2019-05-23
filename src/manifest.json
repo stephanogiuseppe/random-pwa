@@ -1,8 +1,8 @@
 {
   "name": "random-pwa",
   "short_name": "random-pwa",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#02438a",
+  "background_color": "#02438a",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
