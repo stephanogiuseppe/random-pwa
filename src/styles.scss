@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+}
+body {
+  height: 100vh;
+  font-family: 'Open Sans';
+  background-color: brown;
+  color: #fefefe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+}
